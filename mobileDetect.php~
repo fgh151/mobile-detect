@@ -1,5 +1,5 @@
 <?php
-
+namespace fgh151;
 class mobileDetect
 {
     public function isMobile()

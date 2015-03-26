@@ -1,5 +1,5 @@
 {
-	"name": "fgh151/mobileDetect",
+	"name": "fgh151/mobiledetect",
 	"version": "1.0",
 	"type": "library",
 	"description": "A PHP class to detect mobile device",

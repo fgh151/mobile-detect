@@ -14,12 +14,5 @@
 	],
 	"require": {
 		"php": ">=4.3.10"
-	},
-	"autoload": {
-		"psr-0": {
-		    "MyVendor": "fgh151/",
-		    "MyPackage": "mobileDetect/"
-		}
 	}
-	
 }
